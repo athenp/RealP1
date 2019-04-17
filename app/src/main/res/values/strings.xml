@@ -1,0 +1,28 @@
+<resources>
+    <string name="app_name">RealP1</string>
+    <string name="text_accounts">Account List</string>
+    <string name="hint_name">Name</string>
+    <string name="hint_email">Email</string>
+    <string name="hint_password">Password</string>
+    <string name="hint_confirm_password">Confirm Password</string>
+    <string name="text_login">Login</string>
+    <string name="text_register">Register</string>
+    <string name="error_message_name">Enter Full Name</string>
+    <string name="error_message_email">error: emails are of format something@example.com</string>
+    <string name="error_message_age">Enter Age</string>
+    <string name="error_message_password">Enter Password</string>
+    <string name="success_message">Registration Successful</string>
+    <string name="text_not_member">No account yet? Register.</string>
+    <string name="text_already_member">Already have an account? Login.</string>
+    <string name="error_email_exists">error: an account with this email exists</string>
+    <string name="error_password_match">error: passwords do not match</string>
+    <string name="error_valid_email_password">error: wrong email or password</string>
+    <string name="action_settings">Settings</string>
+    <string name="text_hello">Hello,</string>
+    <string name="text_title">app name will go here when I know which is approved</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">Android Studio</string>
+    <string name="nav_header_subtitle">android.studio@android.com</string>
+    <string name="nav_header_desc">Navigation header</string>
+</resources>
